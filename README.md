@@ -12,5 +12,5 @@
 <li>Al momento de cargar nuestra página revisar si existe un JWT, de existir debemos mostrar la tabla y ocultar el formulario</li>
 </ul><br>
 
-<h4>Ubication Mini Taller JWT</h4>
+<h4>Ubicacion Mini Taller JWT</h4>
 <p> public\jwt-practico </p>
