@@ -68,7 +68,7 @@ const fillTable = (posts) => {
         <td> ${ele.body}</td>
       </tr>`;
 
-      document.getElementById('js_table_posts').innerHTML = row;
+      document.getElementById('tdbody_table').innerHTML = row;
     });
   } catch (error) {
     console.error(`Datos Invalidos ${error}`);
