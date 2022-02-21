@@ -1,6 +1,7 @@
 # Mini-Taller-JWT
 
-    <h2> MINI TALLER JW</h2> 
+   
+    
    <ul> 
     <li>Darles ids o nombres para identificar los elementos del formulario que necesitaremos manipular.</li>
   <li>Capturar el evento submit del formulario.</li>
