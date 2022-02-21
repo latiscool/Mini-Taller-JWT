@@ -1,7 +1,5 @@
 # Mini-Taller-JWT
 
-   
-    
    <ul> 
     <li>Darles ids o nombres para identificar los elementos del formulario que necesitaremos manipular.</li>
   <li>Capturar el evento submit del formulario.</li>
@@ -12,4 +10,7 @@
     <li>Ocultar el formulario y mostrar la tabla.</li>
     <li> Guardar el JWT, luego de hacer el login en el localStorage.</li>
 <li>Al momento de cargar nuestra página revisar si existe un JWT, de existir debemos mostrar la tabla y ocultar el formulario</li>
-</ul>
+</ul><br>
+
+<h4>Ubication Mini Taller JWT</h4>
+<p> public\jwt-practico </p>
